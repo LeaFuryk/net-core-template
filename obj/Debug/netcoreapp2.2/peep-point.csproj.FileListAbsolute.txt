@@ -1,0 +1,14 @@
+/Users/lfuryk/Desktop/Lea/net-proj/peep-point/bin/Debug/netcoreapp2.2/peep-point.deps.json
+/Users/lfuryk/Desktop/Lea/net-proj/peep-point/bin/Debug/netcoreapp2.2/peep-point.runtimeconfig.json
+/Users/lfuryk/Desktop/Lea/net-proj/peep-point/bin/Debug/netcoreapp2.2/peep-point.runtimeconfig.dev.json
+/Users/lfuryk/Desktop/Lea/net-proj/peep-point/bin/Debug/netcoreapp2.2/peep-point.dll
+/Users/lfuryk/Desktop/Lea/net-proj/peep-point/bin/Debug/netcoreapp2.2/peep-point.pdb
+/Users/lfuryk/Desktop/Lea/net-proj/peep-point/obj/Debug/netcoreapp2.2/peep-point.csprojAssemblyReference.cache
+/Users/lfuryk/Desktop/Lea/net-proj/peep-point/obj/Debug/netcoreapp2.2/peep-point.csproj.CoreCompileInputs.cache
+/Users/lfuryk/Desktop/Lea/net-proj/peep-point/obj/Debug/netcoreapp2.2/peep-point.RazorAssemblyInfo.cache
+/Users/lfuryk/Desktop/Lea/net-proj/peep-point/obj/Debug/netcoreapp2.2/peep-point.RazorAssemblyInfo.cs
+/Users/lfuryk/Desktop/Lea/net-proj/peep-point/obj/Debug/netcoreapp2.2/peep-point.AssemblyInfoInputs.cache
+/Users/lfuryk/Desktop/Lea/net-proj/peep-point/obj/Debug/netcoreapp2.2/peep-point.AssemblyInfo.cs
+/Users/lfuryk/Desktop/Lea/net-proj/peep-point/obj/Debug/netcoreapp2.2/peep-point.RazorTargetAssemblyInfo.cache
+/Users/lfuryk/Desktop/Lea/net-proj/peep-point/obj/Debug/netcoreapp2.2/peep-point.dll
+/Users/lfuryk/Desktop/Lea/net-proj/peep-point/obj/Debug/netcoreapp2.2/peep-point.pdb

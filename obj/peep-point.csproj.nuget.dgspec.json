@@ -1,0 +1,81 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/lfuryk/Desktop/Lea/net-proj/peep-point/peep-point.csproj": {}
+  },
+  "projects": {
+    "/Users/lfuryk/Desktop/Lea/net-proj/peep-point/peep-point.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lfuryk/Desktop/Lea/net-proj/peep-point/peep-point.csproj",
+        "projectName": "peep-point",
+        "projectPath": "/Users/lfuryk/Desktop/Lea/net-proj/peep-point/peep-point.csproj",
+        "packagesPath": "/Users/lfuryk/.nuget/packages/",
+        "outputPath": "/Users/lfuryk/Desktop/Lea/net-proj/peep-point/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/lfuryk/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "MySql.Data.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.17, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
