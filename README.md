@@ -8,13 +8,8 @@ Set up for .net core with Visual Studio Code configuration using Docker SQLServe
 - Visual Studio Core
 - .NET Core SDK 2.2
 
-## Create project
-`dotnet new webapi -o ${your_proj_name}`
-
 ## Adding Packages
-- `dotnet add package Microsoft.EntityFrameworkCore -v 2.2.6`
-- `dotnet add package Microsoft.EntityFrameworkCore.SqlServer -v 2.2.6`
-- `dotnet add package MySql.Data.EntityFrameworkCore -v 8.0.17`
+- `dotnet restore ${proj_name}.csproj`
 
 ## Docker Set Up
 
